@@ -1,6 +1,6 @@
 #include <iostream>
-#include "function.h"
+#include "include/function.h"
 
 void print_hello(){
-	std::cout << "hello world!";
+	std::cout << "hello world (again)!";
 }
